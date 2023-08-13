@@ -142,7 +142,7 @@ En el CM carril bici podemos ver:
 
 - Las ciudades con mejor calidad del aire, cerca de Barcelona son Canta Coloma, Sant Cugat, Sabadell, Manresa
 
-- Burgos es la tiene la media de temperatura más fría en los meses de invierno.
+- Burgos tiene la media de temperatura más fría en los meses de invierno.
 
 - Almería y Melilla tienen una temperatura entre el 30 máximos y 10 de mínimos.
 
