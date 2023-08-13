@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [3.6 - Carril bici](#BICI) <br />
 [4 - Conclusiones ](#CONC) <br />
 
-## 1. OBJETIVO <a name="O"/>   
+## 1. OBJETIVO. <a name="O"/>   
 
 - Realizar la visualización de las diferentes variables obtenidas a partir de una ETL concreta. Utilizamos la ETL de teletrabajo trabajada en el proyecto anterior.
 
@@ -43,9 +43,9 @@
 - 2.5 Se crea nueva base de datos en SQL.
 
 
-## 3. Cuadros de Mando (Dashboards)  <a name="DS"/>
+## 3. Cuadros de Mando (Dashboards).  <a name="DS"/>
 
-### 3.1 Experiencia cultural <a name="CT"/>
+### 3.1 Experiencia cultural. <a name="CT"/>
 
 En la primera historia del proyecto podemos ver:
 
@@ -55,7 +55,7 @@ En la primera historia del proyecto podemos ver:
 
 <img src="imagenes/cultura.png" alt="Logo" width="1000" height="500">
 
-### 3.2 Vivienda <a name="CT"/>
+### 3.2 Vivienda. <a name="CT"/>
 
 En el CM Vivienda podemos ver dos apartados de venta y alquiler por m²:
 
@@ -127,7 +127,7 @@ En el CM carril bici podemos ver:
 
 <img src="imagenes/bici.png" alt="Logo" width="1000" height="500">
 
-## 4. CONCLUSIONES 📊<a name="CONC"/> 
+## 4. CONCLUSIONES. 📊<a name="CONC"/> 
 - 15 Ciudades de España son patrimonio de la humanidad.
 
 - El precio de alquiler más barato se encuentra en las ciudades de Cáceres, Ciudad Real, Jaén y Zamora.
