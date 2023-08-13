@@ -26,15 +26,15 @@
 
 - Realizar la visualización de las diferentes variables obtenidas a partir de una ETL concreta. Utilizamos la ETL de teletrabajo trabajada en el proyecto anterior.
 
-- Contruir diferentes tipos de gráficos capaces de explicar de la forma más visual posible el comportamiento de las diferentes métricas.
+- Construir diferentes tipos de gráficos capaces de explicar de la forma más visual posible el comportamiento de las diferentes métricas.
 
 - Realizar una exposición en Tableu a partir de los gráficos obtenidos y mostrar una serie de conclusiones.
 
-## 2 - Enrequecimiento del dato.<a name="ENR"/> 
+## 2 - Enriquecimiento del dato.<a name="ENR"/> 
 
 - 2.1 Se procede a exportar los datos con Python del proyecto anterior con pandas.
 
-- 2.2 Se limpian los valores y se convierten los numeros en tipo numerico para operar
+- 2.2 Se limpian los valores y se convierten los números en tipo númerico para operar.
 
 - 2.3 Se procede a enriquecer el dato, escreapeando idealista, alquileres en España.
 
@@ -47,21 +47,21 @@
 
 ### 3.1 Experiencia cultural <a name="CT"/>
 
-En el primera historia del proyecto podemos ver:
+En la primera historia del proyecto podemos ver:
 
-- Un mapa geografico de España donde se puede ver las comunidades autonomas con Patrimonio de la humanidad
+- Un mapa geográfico de España donde se puede ver las comunidades autónomas con Patrimonio de la humanidad.
 
-- En el cuadra inferior se dirige a una pagina web donde muestra la experiencia cultural y de ocio por cada ciudad al seleccionar. 
+- En el cuadro inferior se dirige a una página web donde muestra la experiencia cultural y de ocio por cada ciudad al seleccionar. 
 
 <img src="imagenes/cultura.png" alt="Logo" width="1000" height="500">
 
 ### 3.2 Vivienda <a name="CT"/>
 
-En el CM Vivienda podemos ver dos apartados de venta y alquiler por m2:
+En el CM Vivienda podemos ver dos apartados de venta y alquiler por m²:
 
-- Un gráfico de barras de los por m2.
+- Un gráfico de barras de los por m².
 
-- Maximos histórico.
+- Máximos histórico.
 
 - Barra de filtro para poner el rango deseado.
 
@@ -73,9 +73,9 @@ En el CM Vivienda podemos ver dos apartados de venta y alquiler por m2:
 
 En el CM podemos ver:
 
-- Una tabla de realtado.
+- Una tabla de resaltado.
 
-- Figuran el numero de conexiones internacionales.
+- Figuran el número de conexiones internacionales.
 
 - La provincia.
 
@@ -87,15 +87,15 @@ En el CM podemos ver:
 
 En el CM Calidad del aire podemos ver:
 
-- Podemos obdervar dos graficos de barras.
+- Podemos observar dos gráficos de barras.
 
-- Grafico con la calidad de aire buena.
+- Gráfico con la calidad de aire buena.
 
 - Filtro para poner el porcentaje de calidad de aire.
 
-- Grafico de cercania a Madrid y a Barcelona.
+- Gráfico de cercanía a Madrid y a Barcelona.
 
-- Aeropuerto internacional mas cercano.
+- Aeropuerto internacional más cercano.
 
 <img src="imagenes/aire.png" alt="Logo" width="500" height="300">
 
@@ -103,11 +103,11 @@ En el CM Calidad del aire podemos ver:
 
 En el CM Calidad del aire podemos ver:
 
-- Podemos obdervar dos graficos de barras.
+- Podemos observar dos gráficos de barras.
 
-- Temperatura maxima.
+- Temperatura máxima.
 
-- Temperatura minima.
+- Temperatura mínima.
 
 - Filtro de temperatura para seleccionar el rango deseado. 
 
@@ -117,7 +117,7 @@ En el CM Calidad del aire podemos ver:
 
 En el CM carril bici podemos ver:
 
-- Podemos obdervar un grafico de lineas.
+- Podemos observar un gráfico de líneas.
 
 - Provincias
 
@@ -130,11 +130,11 @@ En el CM carril bici podemos ver:
 ## 2 - CONCLUSIONES 📊<a name="CONC"/> 
 - 15 Ciudades de España son patrimonio de la humanidad.
 
-- El precio de alquiler mas barato se encuentra en las ciudades de Cáceres, Ciudad Real, Jaén y Zamora.
+- El precio de alquiler más barato se encuentra en las ciudades de Cáceres, Ciudad Real, Jaén y Zamora.
 
-- El precio de alquiler mas caro se encuentra en las ciudades de Barcelona, Madrid y Baleares.
+- El precio de alquiler más caro se encuentra en las ciudades de Barcelona, Madrid y Baleares.
 
-- El precio de venta mas barato se encuentra en las ciudades de Ciudad Real, Cuenca y Jaen.
+- El precio de venta más barato se encuentra en las ciudades de Ciudad Real, Cuenca y Jaén.
 
 - Las ciudades con mas vuelos internacionales Madrid y Barcelona.
 
@@ -142,9 +142,9 @@ En el CM carril bici podemos ver:
 
 - Las ciudades con mejor calidad del aire, cerca de Barcelona son Canta Coloma, Sant Cugat, Sabadell, Manresa
 
-- Burgos es la tiene la media de temperatura mas fria en los meses de invierno.
+- Burgos es la tiene la media de temperatura más fría en los meses de invierno.
 
-- Almeria y Melilla tienen una temperatura entre el 30 maximos y 10 de minimos.
+- Almería y Melilla tienen una temperatura entre el 30 máximos y 10 de mínimos.
 
 - Sabadell es la ciudad con más km de carril bici.  
 
