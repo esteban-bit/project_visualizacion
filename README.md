@@ -22,7 +22,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; [3.6 - Carril bici](#BICI) <br />
 [4 - Conclusiones ](#CONC) <br />
 
-## 1 - OBJETIVO <a name="O"/>   
+## 1. OBJETIVO <a name="O"/>   
 
 - Realizar la visualización de las diferentes variables obtenidas a partir de una ETL concreta. Utilizamos la ETL de teletrabajo trabajada en el proyecto anterior.
 
@@ -30,7 +30,7 @@
 
 - Realizar una exposición en Tableu a partir de los gráficos obtenidos y mostrar una serie de conclusiones.
 
-## 2 - Enriquecimiento del dato.<a name="ENR"/> 
+## 2. Enriquecimiento del dato.<a name="ENR"/> 
 
 - 2.1 Se procede a exportar los datos con Python del proyecto anterior con pandas.
 
@@ -43,7 +43,7 @@
 - 2.5 Se crea nueva base de datos en SQL.
 
 
-## 3 - Cuadros de Mando (Dashboards)  <a name="DS"/>
+## 3. Cuadros de Mando (Dashboards)  <a name="DS"/>
 
 ### 3.1 Experiencia cultural <a name="CT"/>
 
@@ -83,7 +83,7 @@ En el CM podemos ver:
 
 <img src="imagenes/inter.png" alt="Logo" width="500" height="300">
 
-### 3.4 - Calidad del aire.<a name="AIR"/>
+### 3.4 Calidad del aire.<a name="AIR"/>
 
 En el CM Calidad del aire podemos ver:
 
@@ -99,7 +99,7 @@ En el CM Calidad del aire podemos ver:
 
 <img src="imagenes/aire.png" alt="Logo" width="500" height="300">
 
-### 3.5 - Temperatura.<a name="TEM"/>
+### 3.5 Temperatura.<a name="TEM"/>
 
 En el CM Calidad del aire podemos ver:
 
@@ -113,7 +113,7 @@ En el CM Calidad del aire podemos ver:
 
 <img src="imagenes/temp.png" alt="Logo" width="500" height="300">
 
-### 3.6 - Carril bici.<a name="BICI"/>
+### 3.6 Carril bici.<a name="BICI"/>
 
 En el CM carril bici podemos ver:
 
@@ -127,7 +127,7 @@ En el CM carril bici podemos ver:
 
 <img src="imagenes/bici.png" alt="Logo" width="1000" height="500">
 
-## 2 - CONCLUSIONES 📊<a name="CONC"/> 
+## 4. CONCLUSIONES 📊<a name="CONC"/> 
 - 15 Ciudades de España son patrimonio de la humanidad.
 
 - El precio de alquiler más barato se encuentra en las ciudades de Cáceres, Ciudad Real, Jaén y Zamora.
